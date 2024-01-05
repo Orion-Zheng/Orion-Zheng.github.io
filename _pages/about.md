@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Andy"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Hello there! I’m Zian(Andy) Zheng, an AI enthusiast on a quest for challenges and unexplored horizons. As a Master’s student, I’m always eager to push boundaries and embrace novel ideas. Beyond the tech realm, I thrive on adrenaline-fueled outdoor pursuits like skydiving, scuba diving, free diving, climbing, and kayaking. Whether it’s conquering algorithms or mountains, I relish every opportunity to grow, learn, and adapt. 
+Hello ! I’m Zian(Andy) Zheng, an AI enthusiast on a quest for challenges and unexplored horizons. As a Master’s student, I’m always eager to push boundaries and embrace novel ideas. Beyond the tech realm, I thrive on adrenaline-fueled outdoor pursuits like skydiving, scuba diving, free diving, climbing, and kayaking. Whether it’s conquering algorithms or mountains, I relish every opportunity to grow, learn, and adapt. 
 
 Research:
 ------
