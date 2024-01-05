@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-The PDF format is available [here](files/ZhengZian's CV-20240106.pdf).
+The PDF format is available [here](files/ZhengZian's CV-20240106.pdf).  
 Education
 ======
 * **B.Eng. in Data Science, Lanzhou University(LZU)**, 09/2018 - 07/2022
@@ -17,7 +17,7 @@ Education
         * China National Scholarship (Top 0.1% Across Nation) 
         * Merit Student in Gansu Province (Top 1% Across Province)
 * **M.Comp. in Artificial Intelligence, National University of Singapore(NUS)**, 08/2022 - Now
-  * **GPA:** 4.42/5, **Supervisor:** Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/) (Director and PI of HPC-AI Lab)
+  * **GPA:** 4.42/5, **Supervisor:** Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/) (Director of HPC-AI Lab)
 
 Research Experience
 ======

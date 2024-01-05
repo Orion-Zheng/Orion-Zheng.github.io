@@ -9,7 +9,7 @@ redirect_from:
 ---
 Hello ! I’m Zian(Andy) Zheng, an AI enthusiast on a quest for challenges and unexplored horizons. As a Master’s student, I’m always eager to push boundaries and embrace novel ideas. Beyond the tech realm, I thrive on adrenaline-fueled outdoor pursuits like skydiving, scuba diving, free diving, climbing, and kayaking. Whether it’s conquering algorithms or mountains, I relish every opportunity to grow, learn, and adapt. 
 
-Research:
+Research Interest:
 ------
 I have a deep interest in the Large Language Model (LLM), especially in the following areas:
 - Data-Centric Approaches: Focusing on data quality and data strategies (e.g. Data Mixture and Data Curriculum)
