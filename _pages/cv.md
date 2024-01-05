@@ -14,9 +14,9 @@ Education
 ======
 * **B.Eng. in Data Science, Lanzhou University(LZU)**, 09/2018 - 07/2022
   * **GPA:** 92.8/100, **Ranking:** 1/192
-  * **Honors:** 
-        * China National Scholarship (Top 0.1% Across Nation) 
-        * Merit Student in Gansu Province (Top 1% Across Province)
+  * **Honors:**
+    * China National Scholarship (Top 0.1% Across Nation)
+    * Merit Student in Gansu Province (Top 1% Across Province)
 * **M.Comp. in Artificial Intelligence, National University of Singapore(NUS)**, 08/2022 - Now
   * **GPA:** 4.42/5
   * **Supervisor:** Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/) (Director of HPC-AI Lab)
