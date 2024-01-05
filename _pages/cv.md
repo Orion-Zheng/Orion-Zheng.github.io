@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-The PDF format is available [here](files/ZhengZian's CV-20240106.pdf).  
+The PDF format is available [here](files/ZhengZian's CV-20240106.pdf).
 
 Education
 ======
