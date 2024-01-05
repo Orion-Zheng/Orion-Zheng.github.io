@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zian(Andy) Zheng's Homepage"
+title                    : "Zian(Andy) Zheng"
 title_separator          : "-"
 name                     : &name "Zian(Andy) Zheng"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zian(Andy) Zheng"
-  avatar           : "avatar.png"
+  avatar           : "avatar.jpg"
   bio              : "Master Student at HPC-AI Lab, NUS"
   location         : "Singapore"
   employer         :
