@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Zheng Zian's Resume"
+title: "Zheng Zian's CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
