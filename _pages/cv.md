@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Zheng Zian's CV"
+title: "Andy's CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -18,15 +18,16 @@ Education
     * China National Scholarship (Top 0.1% Across Nation)
     * Merit Student in Gansu Province (Top 1% Across Province)
 * **M.Comp. in Artificial Intelligence, National University of Singapore(NUS)**, 08/2022 - Now
-  * **GPA:** 4.42/5
-  * **Supervisor:** Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/) (Director of HPC-AI Lab)
+  * **GPA:** 4.42/5,
+  * **Advisor:** Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/) (Director of HPC-AI Lab)
 
 Research Experience
 ======
-* **Master Dissertaion in HPC-AI Lab, National University of Singapore**, 05/2023 – Now
-  * Working on OpenMoE project (second author) with [Fuzhao Xue](https://xuefuzhao.github.io), which is the **first open-source, decoder-only MoE language model**. We released the code and checkpoint and got ~**750 stars** on [GitHub](https://github.com/XueFuzhao/OpenMoE) and ~**500 likes** on [Twitter](https://twitter.com/xuefz/status/1693696988611739947?s=61&t=shUN33SHHFV3CuEuz26WcA).
+* **Master Dissertation in HPC-AI Lab, National University of Singapore**, 05/2023 – Now
+  Keywords: Data-Centric methods, Mixture-of-Experts Model
+  * Working on OpenMoE project (second author) with [Fuzhao Xue](https://xuefuzhao.github.io), which is the **first open-source, decoder-only MoE language model**. We released the code and checkpoint and got ~**750 stars** on [GitHub](https://github.com/XueFuzhao/OpenMoE).
   * Investigated publicly available pre-training corpus (English, Chinese, multilingual, code, etc), preprocessing methods and tokenization techniques. Do experiments comparing tokenizers. Prepare the pre-training, SFT and evaluation datasets in TFDS format.
-  * Participated in the Pytorch Implementation of OpenMoE. Now conducting literature review of Mixture of Experts models and writing the paper.
+  * Worked on the Pytorch implementation of OpenMoE with ColossalAI team. Now conducting literature review of Mixture of Experts models and writing the paper.
 
 
 Work Experience
@@ -34,9 +35,9 @@ Work Experience
 
 * **Artificial Intelligence Engineer Intern, Beijing, HPC-AI Tech**, 07/2023 – 11/2023
 
-  **Keywords:** Data-Centric methods, Long Context LLM, Retrieval Augmented Generation
+  Keywords: Data-Centric methods, Long Context LLM, Retrieval Augmented Generation
 
-  * Extended the LLaMA’s vocabulary for Chinese text and participated in the data cleaning and preparation process in the [Colossal-LLaMA-2 project](https://huggingface.co/hpcai-tech/Colossal-LLaMA-2-7b-base) (achieved **186,000 downloads** on Huggingface so far).
+  * Extended the LLaMA’s vocabulary for Chinese text and participated in the data cleaning and preparation process in the [Colossal-LLaMA-2 project](https://huggingface.co/hpcai-tech/Colossal-LLaMA-2-7b-base) (achieved **18k+ downloads** on Huggingface so far).
   * Context length extrapolation: Investigated common context extrapolation techniques (e.g. PI, NTK, LongLLaMA , LongLoRA, etc.), training corpus with long data and long-text evaluation methods. Working on constructing Chinese long text training data and doing multi-GPU training to extrapolate Colossal-LLaMA-2.
   * Participated in the [ColossalQA](https://github.com/hpcaitech/ColossalAI/tree/main/applications/ColossalQA) project, a retrieval-based QA framework based on Langchain.
   * Involved in the writing of the book 'Practical Large AI Models', edited by Professor Yang You.
