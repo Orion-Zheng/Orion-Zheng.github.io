@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-The PDF format is available [here](/files/ZhengZian's CV-20240106.pdf).
+The PDF format is available [here](/files/ZhengZian's CV-240109.pdf).
 
 Education
 ======
@@ -24,7 +24,9 @@ Education
 Research Experience
 ======
 * **Master Dissertation in HPC-AI Lab, National University of Singapore**, 05/2023 – Now
+
   Keywords: Data-Centric methods, Mixture-of-Experts Model
+
   * Working on OpenMoE project (second author) with [Fuzhao Xue](https://xuefuzhao.github.io), which is the **first open-source, decoder-only MoE language model**. We released the code and checkpoint and got ~**750 stars** on [GitHub](https://github.com/XueFuzhao/OpenMoE).
   * Investigated publicly available pre-training corpus (English, Chinese, multilingual, code, etc), preprocessing methods and tokenization techniques. Do experiments comparing tokenizers. Prepare the pre-training, SFT and evaluation datasets in TFDS format.
   * Worked on the Pytorch implementation of OpenMoE with ColossalAI team. Now conducting literature review of Mixture of Experts models and writing the paper.
