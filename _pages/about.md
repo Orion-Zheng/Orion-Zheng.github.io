@@ -9,13 +9,13 @@ redirect_from:
 ---
 Hello ! I’m Zian(Andy) Zheng, an AI enthusiast on a quest for challenges and unexplored horizons.
 
-- As a Master’s student, I’m always eager to push boundaries and embrace novel ideas. 
+- As a Master’s student in National University of Singapore(NUS), I’m always eager to push boundaries and embrace novel ideas. 
 
-- Beyond the tech realm, I thrive on adrenaline-fueled outdoor pursuits like skydiving, scuba diving, free diving, climbing, and kayaking. 
+- Beyond the study, I thrive on adrenaline-fueled outdoor pursuits like skydiving, scuba diving, free diving, climbing, and kayaking. 
 
 Whether it’s conquering algorithms or mountains, I relish every opportunity to grow, learn, and adapt.
 
-Research Interests:
+Research Interests
 ------
 I have a deep interest in the Large Language Model (LLM), especially in the following areas:
 - Data-Centric Approaches: Focusing on data quality and data strategies (e.g. Data Mixture and Data Curriculum)
@@ -24,10 +24,10 @@ I have a deep interest in the Large Language Model (LLM), especially in the foll
 
 ![Overview of My Research Interest](/images/research_interests.png)
 
-Personal Information
+Miscellaneous
 ------
 Here are some interesting facts about me: 
-- I have the fortune to be Newton's 18th generation of students. The acadamic family tree is [here](/files/academic_family_tree.md).
-- I am an extreme sports enthusiast. You can call me 'Tri-diver'(skydiver, freediver, scuba diver), as this represents my achievements in scuba diving, free diving, and skydiving.
-- I like writing poems(in English/Chinese). For example, [here](/images/poem.png) is one of my poems about my life and love(yet-to-be-discovered).
+- I have the fortune to be Newton's 18th generation of students. The acadamic family tree is [here](/images/AcademicFamilyTree.png).
+- I am an extreme sports lover and adrenaline junkie. You can call me 'Tri-diver Andy'([skydiver](/images/USPA-A.jpeg), [freediver](/images/AIDA-2star.png), [scuba diver](/images/AOW.jpg)), as this represents my achievements in scuba diving, free diving, and skydiving.
+- I like writing poems(in English/Chinese). For example, [here](/images/poem.png) is one of my poems about life and love(yet-to-be-discovered).
 
