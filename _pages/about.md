@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello ! I’m Zian(Andy) Zheng, an AI enthusiast on a quest for challenges and unexplored horizons.
+Hey there👋🏻! I’m Zian(Andy) Zheng, an AI enthusiast on a quest for challenges and unexplored horizons.
 
-- As a Master’s student in National University of Singapore(NUS), I’m always eager to push boundaries and embrace novel ideas. 
+- As a Master student at HPC-AI Lab, National University of Singapore(NUS), I’m always eager to push boundaries and embrace novel ideas. 
 
 - Beyond the study, I thrive on adrenaline-fueled outdoor pursuits like skydiving, scuba diving, free diving, climbing, and kayaking. 
 
@@ -22,7 +22,7 @@ I have a deep interest in the Large Language Model (LLM), especially in the foll
 - Efficient LLM Design and Training: MoE (Mixture-of-Experts) Model, Efficient Context Extrapolation Method.
 - Maximizing Trained LLM Availability/Capability: Efficient Inference, Prompt Engineering, LLM-based Agent.
 
-![Overview of My Research Interest](/images/research_interests.png)
+<!-- ![Overview of My Research Interest](/images/research_interests.png) -->
 
 Miscellaneous
 ------
