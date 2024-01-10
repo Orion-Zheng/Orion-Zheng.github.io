@@ -29,5 +29,5 @@ Miscellaneous
 Here are some interesting facts about me: 
 - I have the fortune to be Newton's 18th generation of students. The acadamic family tree is [here](/images/AcademicFamilyTree.png).
 - I am an extreme sports lover and adrenaline junkie. You can call me 'Tri-diver Andy'([skydiver](/images/USPA-A.jpeg), [freediver](/images/AIDA-2star.png), [scuba diver](/images/AOW.jpg)), as this represents my achievements in scuba diving, free diving, and skydiving.
-- I like writing poems(in English/Chinese). For example, [here](/images/poem.png) is one of my poems about life and love(yet-to-be-discovered).
+- I like writing poems(in English/Chinese). For example, [here](/images/poem.png) is one of my poems about life and yet-to-be-discovered love.
 
