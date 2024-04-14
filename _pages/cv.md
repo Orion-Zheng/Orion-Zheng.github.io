@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-The PDF format is available [here](/files/ZhengZian's_CV-240115.pdf).
+The PDF format is available [here](/files/ZhengZian's_CV.pdf).
 
 Education
 ======
@@ -27,9 +27,9 @@ Research Experience
 
   Keywords: Data-Centric methods, Mixture-of-Experts Model
 
-  * Working on OpenMoE project (second author) with [Fuzhao Xue](https://xuefuzhao.github.io), which is the **first open-source, decoder-only MoE language model**. We released the code and checkpoint and got ~**750 stars** on [GitHub](https://github.com/XueFuzhao/OpenMoE).
+  * Working on OpenMoE project (second author) with [Fuzhao Xue](https://xuefuzhao.github.io), which is the **first open-source, decoder-only MoE language model**. We released the code and checkpoint and got **1k+ stars** on [GitHub](https://github.com/XueFuzhao/OpenMoE).
   * Investigated publicly available pre-training corpus (English, Chinese, multilingual, code, etc), preprocessing methods and tokenization techniques. Do experiments comparing tokenizers. Prepare the pre-training, SFT and evaluation datasets in TFDS format.
-  * Worked on the Pytorch implementation of OpenMoE with ColossalAI team. Now conducting literature review of Mixture of Experts models and writing the paper.
+  *	Worked on the Pytorch implementation of OpenMoE with the ColossalAI team. Performing model evaluations and contributed to the paper writing.
 
 
 Work Experience
@@ -46,6 +46,5 @@ Work Experience
 
 Publications
 ======
-  * OpenMoE: Open Mixture-of-Experts Language Models [[Code]](https://github.com/XueFuzhao/OpenMoE) [[Blog]](https://www.notion.so/Aug-2023-OpenMoE-v0-2-Release-43808efc0f5845caa788f2db52021879) [[Twitter]](https://x.com/XueFz/status/1693696988611739947?s=20) \
+  * OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models [[Code]](https://github.com/XueFuzhao/OpenMoE) [[Paper]](https://arxiv.org/abs/2402.01739) [[Twitter]](https://x.com/XueFz/status/1693696988611739947?s=20) \
     Fuzhao Xue, **Zian Zheng**, Yao Fu, Jinjie Ni, Zangwei Zheng, Wangchunshu Zhou and Yang You
-    ***GitHub repository***
