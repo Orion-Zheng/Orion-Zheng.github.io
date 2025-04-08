@@ -17,25 +17,25 @@ Whether it’s conquering algorithms or mountains, I relish every opportunity to
 
 ---
 
-### Research Interests  
-I’m interested in LLMs, VLMs, and AIGC. Here are a few questions I’m exploring — and what I’ve done so far:
+## Research Interests  
+I’m generally interested in LLMs, VLMs, and AIGC. Here are a few questions I’m exploring — and what I’ve done so far:
 
 ---
 
-#### **1. How can we make LLMs / VLMs / Diffusion models more efficient?**
+### **1. How can we make LLMs / VLMs / Diffusion models more efficient?**
 
 - [**OpenMoE**](https://icml.cc/virtual/2024/poster/35145): Explore training dynamics of **routing mechanism dynamics** of Mixture-of-Experts (MoE) models, aiming for better **load balancing** during inference.  
   → Found: context-independent specialization, early routing convergence, and end-stage drop.
 
 - [**AdaVocab**](https://docs.google.com/presentation/d/1lTtGeuaMOA6r9UtGcIl_2YXbEsyGmKwi/edit?usp=share_link&ouid=113607237381304484625&rtpof=true&sd=true): **Sparse vocabulary activation** for next-token prediction speeds up SLM inference.
 
-- [**TheMatrix**](https://thematrix1999.github.io/) ([my work](https://github.com/Orion-Zheng/matrix)): **Real-time, interactive video generation** with diffusion models.  
+- [**TheMatrix**](https://thematrix1999.github.io/): ([my contribution](https://github.com/Orion-Zheng/matrix)) Inference optimization for **Real-time, interactive video generation** with diffusion models. [[demo]](https://drive.google.com/file/d/1GW6eCH-u9jLWs_Br-JJHIBbHXwWN5wuc/view?usp=sharing)
   → A tiny game engine without rewards; an efficient video world model with them.
 
 ---
 
-#### **2. Can we learn policies in AI-generated virtual worlds using AI feedback?**  
-A vision I’m passionate about: *Use world models to simulate diverse environments, and VLMs to supervise different policy learning — possibly even for the real world.*
+### **2. Can we learn policies in AI-generated virtual worlds using AI feedback?**  
+A vision I’m passionate about: *Simulate any environment with world models, supervise policy learning with AI models(e.g. VLMs), and generalize to the real world.*
 
 **Progress so far:**  
 - ✅ Built action-controllable world models (e.g. Matrix, Cosmos)  
@@ -47,7 +47,7 @@ A vision I’m passionate about: *Use world models to simulate diverse environme
 
 ---
 
-#### **3. Making Human–AI interaction better**  
+### **3. Making Human–AI interaction better**  
 Not just research — I build tools too. As a heavy LLM/VLM user, I want better interfaces to think with AI.
 
 **Goals:**  
