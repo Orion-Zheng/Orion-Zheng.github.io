@@ -14,22 +14,12 @@ The PDF format is available [here](/files/ZhengZian's_CV_20250408.pdf).
 
 **Education**
 
-**MMath**  
-**University of Waterloo**, Computer Science, Ontario, Canada  
-*Sept 2024 – Now*
+MMath, Computer Science – University of Waterloo, Ontario, Canada (Sept 2024 – Now)
 
----
-
-**MComp**  
-**National University of Singapore**, Artificial Intelligence, Singapore  
-*Sept 2022 – May 2024*  
+MComp, Artificial Intelligence – National University of Singapore, Singapore (Sept 2022 – May 2024)  
 - Advised by Presidential Young Professor [Yang You](https://www.comp.nus.edu.sg/~youy/)
 
----
-
-**BEng**  
-**Lanzhou University**, Data Science, Lanzhou, China  
-*Sept 2018 – May 2022*  
+BEng, Data Science – Lanzhou University, Lanzhou, China (Sept 2018 – May 2022)  
 - GPA: 92.8/100 (Ranking: 1/192)
 
 ---
