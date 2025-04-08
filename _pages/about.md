@@ -30,14 +30,14 @@ I’m generally interested in LLMs, VLMs, and AIGC. Here are a few questions I�
 - [**AdaVocab**](https://docs.google.com/presentation/d/1lTtGeuaMOA6r9UtGcIl_2YXbEsyGmKwi/edit?usp=share_link&ouid=113607237381304484625&rtpof=true&sd=true): **Sparse vocabulary activation** for next-token prediction speeds up SLM inference.
 
 - [**TheMatrix**](https://thematrix1999.github.io/): ([my contribution](https://github.com/Orion-Zheng/matrix)) Inference optimization for **Real-time, interactive video generation** with diffusion models. [[demo]](https://drive.google.com/file/d/1GW6eCH-u9jLWs_Br-JJHIBbHXwWN5wuc/view?usp=sharing)
-  → A tiny game engine without rewards; an efficient video world model with them.
+  → This could be the future game engine(without rewards), or an efficient video world model with them :)
 
 ---
 
 ### **2. Can we learn policies in AI-generated virtual worlds using AI feedback?**  
 A vision I’m passionate about: *Simulate any environment with world models, supervise policy learning with AI models(e.g. VLMs), and generalize to the real world.*
 
-**Progress so far:**  
+**Roadmap (in My Mind):**  
 - ✅ Built action-controllable world models (e.g. Matrix, Cosmos)  
 - 🔄 Wrapping world model + VLM reward into a Gym-style RL env (in progress)
 
