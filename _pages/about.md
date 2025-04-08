@@ -24,7 +24,7 @@ I’m generally interested in LLMs, VLMs, and AIGC. Here are a few questions I�
 
 ### **1. How can we make LLMs / VLMs / Diffusion models more efficient?**
 
-- [**OpenMoE**](https://icml.cc/virtual/2024/poster/35145): Explore training dynamics of **routing mechanism dynamics** of Mixture-of-Experts (MoE) models, aiming for better **load balancing** during inference.  
+- [**OpenMoE**](https://icml.cc/virtual/2024/poster/35145): Explore training dynamics of **routing mechanism** of Mixture-of-Experts (MoE) models, aiming for better **load balancing** during inference.  
   → Found: context-independent specialization, early routing convergence, and end-stage drop.
 
 - [**AdaVocab**](https://docs.google.com/presentation/d/1lTtGeuaMOA6r9UtGcIl_2YXbEsyGmKwi/edit?usp=share_link&ouid=113607237381304484625&rtpof=true&sd=true): **Sparse vocabulary activation** for next-token prediction speeds up SLM inference.
