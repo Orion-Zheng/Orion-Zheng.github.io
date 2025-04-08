@@ -17,12 +17,12 @@ Whether it’s conquering algorithms or mountains, I relish every opportunity to
 
 ---
 
-Research Interests
+**Research Interests** 
 I’m generally interested in LLMs, VLMs, and AIGC. Here are some research questions I’m currently exploring (along with what I’ve already done):
 
 ---
 
-1. How can we make LLMs/VLMs/Diffusion models more efficient?  
+**1. How can we make LLMs/VLMs/Diffusion models more efficient?**  
 
 - [**OpenMoE**](https://icml.cc/virtual/2024/poster/35145): We dive into the *routing mechanism* of Mixture-of-Experts (MoE) models during training, aiming for better *load balancing* during inference.  *Key findings:* context-independent specialization, early routing learning, and drop-towards-the-end.
 
@@ -31,9 +31,7 @@ I’m generally interested in LLMs, VLMs, and AIGC. Here are some research quest
 - [**TheMatrix**](https://thematrix1999.github.io/): ([my contribution](https://github.com/Orion-Zheng/matrix)) How do we achieve *real-time, interactive video generation* with diffusion models?  
   A *baby game engine* without rewards; an *efficient video world model* with rewards.
 
----
-
-2. Can we learn policies in AI-generated virtual worlds with AI feedback?  
+**2. Can we learn policies in AI-generated virtual worlds with AI feedback?**  
 This is a research vision I’m super passionate about — the idea that: *We can generate any environment with a world model and learn any policy inside it using VLM-based feedback — and it might even transfer to the real world.*
 
 Roadmap (in my head):  
@@ -44,9 +42,7 @@ Two key challenges I’m working on:
 - Efficient world model inference – Inference speed deeply impacts policy learning. My contribution: pipelined and parallelized the inference of DiT, VAE, and post-processors in TheMatrix.  
 - AI-generated rewards for virtual agents – Can VLMs directly provide reward signals? Or should we let VLMs label preferences to train reward models? Still figuring it out — stay tuned.
 
----
-
-3. Making Human-AI interaction better  (a.k.a. I’m not just doing research — I build tools too!)
+**3. Making Human-AI interaction better**  (a.k.a. I’m not just doing research — I build tools too!)  
 
 As a heavy LLM/VLM user myself — you know what they say: *sharpen your tools before cutting wood.* I'm actively exploring new interaction paradigms for LLMs, as I believe current chatbot interfaces are far from optimal.
 
