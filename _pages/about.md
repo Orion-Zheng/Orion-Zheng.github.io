@@ -34,7 +34,7 @@ I’m generally interested in LLMs, VLMs, and AIGC. Here are a few topics I’m 
 
 ---
 
-### **2. "Simulate with AI, learn from AI, and deploy in the real world" 
+### **2. "Simulate with AI, learn from AI, and deploy in the real world"**  
 A vision I’m passionate about: *Simulate any environment with world models, supervise policy learning with AI feedbacks(e.g. VLMs), and finally generalize to the real world.*
 
 **Roadmap (in My Mind):**  
