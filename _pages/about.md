@@ -18,11 +18,11 @@ Whether it’s conquering algorithms or braving the wild, I embrace every chance
 ---
 
 ## Research Interests  
-I’m generally interested in LLMs, VLMs, and AIGC. Here are a few questions I’m exploring — and what I’ve done so far:
+I’m generally interested in LLMs, VLMs, and AIGC. Here are a few topics I’m exploring — and what I’ve done so far:
 
 ---
 
-### **1. How can we make LLMs / VLMs / Diffusion models more efficient?**
+### **1. Making AI models(LLMs / VLMs / Diffusion) more efficient**
 
 - [**OpenMoE**](https://icml.cc/virtual/2024/poster/35145): Explore training dynamics of **routing mechanism** of Mixture-of-Experts (MoE) models, aiming for better **load balancing** during inference.  
   → Found: context-independent specialization, early routing convergence, and end-stage drop.
@@ -34,9 +34,8 @@ I’m generally interested in LLMs, VLMs, and AIGC. Here are a few questions I�
 
 ---
 
-### **2. Can we learn policies in AI-generated virtual worlds using AI feedback?**  
-A vision I’m passionate about: "Simulate with AI, learn from AI, and deploy in the real world", 
-i.e. *Simulate any environment with world models, supervise policy learning with AI feedbacks(e.g. VLMs), and finally generalize to the real world.*
+### **2. "Simulate with AI, learn from AI, and deploy in the real world" 
+A vision I’m passionate about: *Simulate any environment with world models, supervise policy learning with AI feedbacks(e.g. VLMs), and finally generalize to the real world.*
 
 **Roadmap (in My Mind):**  
 - ✅ Built action-controllable world models (e.g. Matrix, Cosmos)  
@@ -49,9 +48,9 @@ i.e. *Simulate any environment with world models, supervise policy learning with
 ---
 
 ### **3. Making Human–AI interaction better**  
-Not just research — I build tools too! As a heavy LLM/VLM user, I want better interfaces to think with AI.
+Not just research — I like to build tools too! As a heavy LLM/VLM user, I hope to build better interfaces to collaborate with AI.
 
-**Goals:**  
+**Some thoughts:**  
 - Let users segment, reuse, and compose dialogue context more effectively  
 - Turn chat history into a personalized knowledge base — for strengthening or sharing knowledge
 
