@@ -67,16 +67,16 @@ The PDF format is available [here](/files/ZhengZian's_CV_20250408.pdf).
 
 **Publications**
 
-- **[ICML 2024]** [OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models](https://icml.cc/virtual/2024/poster/35145)  
-  *Fuzhao Xue, **_Zian Zheng_**, Yao Fu, Jinjie Ni, Zangwei Zheng, Wangchunshu Zhou, Yang You*  
+**[ICML 2024]** [OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models](https://icml.cc/virtual/2024/poster/35145)  
+  *Fuzhao Xue, **Zian Zheng**, Yao Fu, Jinjie Ni, Zangwei Zheng, Wangchunshu Zhou, Yang You*  
   *Jan 2024*
 
-- **[ICLR 2025]** [MixEval-X: Any-to-Any Evaluations from Real-World Data Mixtures](https://arxiv.org/pdf/2410.13754)  
-  *Jinjie Ni, Yifan Song, Deepanway Ghosal, Bo Li, David Junhao Zhang, Xiang Yue, Fuzhao Xue, **_Zian Zheng_**, Kaichen Zhang, Mahir Shah, Kabir Jain, Yang You, Michael Shieh*  
+**[ICLR 2025]** [MixEval-X: Any-to-Any Evaluations from Real-World Data Mixtures](https://arxiv.org/pdf/2410.13754)  
+  *Jinjie Ni, Yifan Song, Deepanway Ghosal, Bo Li, David Junhao Zhang, Xiang Yue, Fuzhao Xue, **Zian Zheng**, Kaichen Zhang, Mahir Shah, Kabir Jain, Yang You, Michael Shieh*  
   *Oct 2024*
 
-- **[Arxiv]** [The Matrix: Infinite-Horizon World Generation with Real-Time Moving Control](https://icml.cc/virtual/2024/poster/35145)  
-  *Ruili Feng, Han Zhang, Zhantao Yang, Jie Xiao, Zhilei Shu, Zhiheng Liu, **_Andy Zheng_**, Yukun Huang, Yu Liu, Hongyang Zhang*  
+**[Arxiv]** [The Matrix: Infinite-Horizon World Generation with Real-Time Moving Control](https://icml.cc/virtual/2024/poster/35145)  
+  *Ruili Feng, Han Zhang, Zhantao Yang, Jie Xiao, Zhilei Shu, Zhiheng Liu, **Andy Zheng**, Yukun Huang, Yu Liu, Hongyang Zhang*  
   *Dec 2024*
 
 ---

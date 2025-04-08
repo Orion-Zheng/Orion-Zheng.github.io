@@ -17,39 +17,42 @@ Whether it’s conquering algorithms or mountains, I relish every opportunity to
 
 ---
 
-**Research Interests** 
-I’m generally interested in LLMs, VLMs, and AIGC. Here are some research questions I’m currently exploring (along with what I’ve already done):
+### Research Interests  
+I’m interested in LLMs, VLMs, and AIGC. Here are a few questions I’m exploring — and what I’ve done so far:
 
 ---
 
-**1. How can we make LLMs/VLMs/Diffusion models more efficient?**  
+#### **1. How can we make LLMs / VLMs / Diffusion models more efficient?**
 
-- [**OpenMoE**](https://icml.cc/virtual/2024/poster/35145): We dive into the *routing mechanism* of Mixture-of-Experts (MoE) models during training, aiming for better *load balancing* during inference.  *Key findings:* context-independent specialization, early routing learning, and drop-towards-the-end.
+- [**OpenMoE**](https://icml.cc/virtual/2024/poster/35145): Explore training dynamics of **routing mechanism dynamics** of Mixture-of-Experts (MoE) models, aiming for better **load balancing** during inference.  
+  → Found: context-independent specialization, early routing convergence, and end-stage drop.
 
-- [**AdaVocab**](https://docs.google.com/presentation/d/1lTtGeuaMOA6r9UtGcIl_2YXbEsyGmKwi/edit?usp=share_link&ouid=113607237381304484625&rtpof=true&sd=true): Can we speed up SLM inference by *sparsely activating the vocabulary* for next-token prediction? Turns out, yes.
+- [**AdaVocab**](https://docs.google.com/presentation/d/1lTtGeuaMOA6r9UtGcIl_2YXbEsyGmKwi/edit?usp=share_link&ouid=113607237381304484625&rtpof=true&sd=true): **Sparse vocabulary activation** for next-token prediction speeds up SLM inference.
 
-- [**TheMatrix**](https://thematrix1999.github.io/): ([my contribution](https://github.com/Orion-Zheng/matrix)) How do we achieve *real-time, interactive video generation* with diffusion models?  
-  A *baby game engine* without rewards; an *efficient video world model* with rewards.
+- [**TheMatrix**](https://thematrix1999.github.io/) ([my work](https://github.com/Orion-Zheng/matrix)): **Real-time, interactive video generation** with diffusion models.  
+  → A tiny game engine without rewards; an efficient video world model with them.
 
-**2. Can we learn policies in AI-generated virtual worlds with AI feedback?**  
-This is a research vision I’m super passionate about — the idea that: *We can generate any environment with a world model and learn any policy inside it using VLM-based feedback — and it might even transfer to the real world.*
+---
 
-Roadmap (in my head):  
-- ✅ Build action-controllable world models – We now have models like Matrix, Cosmos, etc.  
-- 🔄 Wrap the world model + VLM reward into an RL environment (with a Gym interface) – Status: ongoing.
+#### **2. Can we learn policies in AI-generated virtual worlds using AI feedback?**  
+A vision I’m passionate about: *Use world models to simulate diverse environments, and VLMs to supervise different policy learning — possibly even for the real world.*
 
-Two key challenges I’m working on:  
-- Efficient world model inference – Inference speed deeply impacts policy learning. My contribution: pipelined and parallelized the inference of DiT, VAE, and post-processors in TheMatrix.  
-- AI-generated rewards for virtual agents – Can VLMs directly provide reward signals? Or should we let VLMs label preferences to train reward models? Still figuring it out — stay tuned.
+**Progress so far:**  
+- ✅ Built action-controllable world models (e.g. Matrix, Cosmos)  
+- 🔄 Wrapping world model + VLM reward into a Gym-style RL env (in progress)
 
-**3. Making Human-AI interaction better**  (a.k.a. I’m not just doing research — I build tools too!)  
+**Challenges I’m working on:**  
+- *Fast world model inference:* Pipelined and parallelized DiT, VAE, and post-processors in TheMatrix project.  
+- *AI-generated rewards:* Can VLMs give direct feedback, or label preferences for training reward models? Still exploring.
 
-As a heavy LLM/VLM user myself — you know what they say: *sharpen your tools before cutting wood.* I'm actively exploring new interaction paradigms for LLMs, as I believe current chatbot interfaces are far from optimal.
+---
 
-My goals:  
-- Build systems that let users segment, reuse, and compose dialogue context more effectively — so we can think better, together with AI.  
-- Create tools that turn everyday chat history into a personalized knowledge base — for reflection, personal review, and knowledge sharing.
+#### **3. Making Human–AI interaction better**  
+Not just research — I build tools too. As a heavy LLM/VLM user, I want better interfaces to think with AI.
 
+**Goals:**  
+- Let users segment, reuse, and compose dialogue context more effectively  
+- Turn chat history into a personalized knowledge base — for strengthening or sharing knowledge
 
 ---
 
