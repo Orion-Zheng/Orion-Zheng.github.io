@@ -13,7 +13,7 @@ Hey there👋🏻! I’m Zian(Andy) Zheng, an AI enthusiast on a quest for chall
 
 - Beyond the study, I thrive on adrenaline-fueled outdoor pursuits like skydiving, scuba diving, free diving, climbing, and kayaking.  
 
-Whether it’s conquering algorithms or mountains, I relish every opportunity to grow, learn, and adapt.
+Whether it’s conquering algorithms or braving the wild, I embrace every chance to grow, learn, and adapt.
 
 ---
 
@@ -35,7 +35,7 @@ I’m generally interested in LLMs, VLMs, and AIGC. Here are a few questions I�
 ---
 
 ### **2. Can we learn policies in AI-generated virtual worlds using AI feedback?**  
-A vision I’m passionate about: *Simulate any environment with world models, supervise policy learning with AI models(e.g. VLMs), and generalize to the real world.*
+A vision I’m passionate about: *Simulate any environment with world models, supervise policy learning with AI models(e.g. VLMs), and finally generalize to the real world.*
 
 **Roadmap (in My Mind):**  
 - ✅ Built action-controllable world models (e.g. Matrix, Cosmos)  
@@ -48,7 +48,7 @@ A vision I’m passionate about: *Simulate any environment with world models, su
 ---
 
 ### **3. Making Human–AI interaction better**  
-Not just research — I build tools too. As a heavy LLM/VLM user, I want better interfaces to think with AI.
+Not just research — I build tools too! As a heavy LLM/VLM user, I want better interfaces to think with AI.
 
 **Goals:**  
 - Let users segment, reuse, and compose dialogue context more effectively  
