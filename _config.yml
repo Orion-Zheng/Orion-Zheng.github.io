@@ -11,7 +11,7 @@ title                    : "Zian(Andy) Zheng"
 title_separator          : "-"
 name                     : &name "Zian(Andy) Zheng"
 description              : &description "personal description"
-url                      : https://orion-zheng.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zheng-zian-andy.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Orion-Zheng/Orion-Zheng.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zian(Andy) Zheng"
   avatar           : "avatar.jpg"
-  bio              : "Master Student at HPC-AI Lab, NUS"
-  location         : "Singapore"
+  bio              : "MMath Student at UWaterloo"
+  location         : "Canada"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=3j1uWicAAAAJ&hl=en&oi=ao"
-  email            : "zheng_zian@u.nus.edu"
+  email            : "zian.zheng@uwaterloo.ca"
   researchgate     :  
   uri              :
   bitbucket        :

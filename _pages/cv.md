@@ -8,43 +8,87 @@ redirect_from:
 ---
 
 {% include base_path %}
-The PDF format is available [here](/files/ZhengZian's_CV.pdf).
+The PDF format is available [here](/files/ZhengZian's_CV_20250408.pdf).
 
-Education
-======
-* **B.Eng. in Data Science, Lanzhou University(LZU)**, 09/2018 - 07/2022
-  * **GPA:** 92.8/100, **Ranking:** 1/192
-  * **Honors:**
-    * China National Scholarship (Top 0.1% Across Nation)
-    * Merit Student in Gansu Province (Top 1% Across Province)
-* **M.Comp. in Artificial Intelligence, National University of Singapore(NUS)**, 08/2022 - Now
-  * **GPA:** 4.42/5,
-  * **Advisor:** Prof. [Yang You](https://www.comp.nus.edu.sg/~youy/) (Director of HPC-AI Lab)
+## Education
 
-Research Experience
-======
-* **Master Dissertation in HPC-AI Lab, National University of Singapore**, 05/2023 – Now
+### **MMath**  
+**University of Waterloo**, Computer Science, Ontario, Canada  
+*Sept 2024 – Now*
 
-  Keywords: Data-Centric methods, Mixture-of-Experts Model
+---
 
-  * Working on OpenMoE project (second author) with [Fuzhao Xue](https://xuefuzhao.github.io), which is the **first open-source, decoder-only MoE language model**. We released the code and checkpoint and got **1k+ stars** on [GitHub](https://github.com/XueFuzhao/OpenMoE).
-  * Investigated publicly available pre-training corpus (English, Chinese, multilingual, code, etc), preprocessing methods and tokenization techniques. Do experiments comparing tokenizers. Prepare the pre-training, SFT and evaluation datasets in TFDS format.
-  *	Worked on the Pytorch implementation of OpenMoE with the ColossalAI team. Performing model evaluations and contributed to the paper writing.
+### **MComp**  
+**National University of Singapore**, Artificial Intelligence, Singapore  
+*Sept 2022 – May 2024*  
+- Advised by Presidential Young Professor [Yang You](https://www.comp.nus.edu.sg/~youy/)
 
+---
 
-Work Experience
-======
+### **BEng**  
+**Lanzhou University**, Data Science, Lanzhou, China  
+*Sept 2018 – May 2022*  
+- GPA: 92.8/100 (Ranking: 1/192)
 
-* **Artificial Intelligence Engineer Intern, Beijing, HPC-AI Tech**, 07/2023 – 11/2023
+---
 
-  Keywords: Data-Centric methods, Long Context LLM, Retrieval Augmented Generation
+## Research Projects
 
-  * Extended the LLaMA’s vocabulary for Chinese text and participated in the data cleaning and preparation process in the [Colossal-LLaMA-2 project](https://huggingface.co/hpcai-tech/Colossal-LLaMA-2-7b-base) (achieved **18k+ downloads** on Huggingface so far).
-  * Context length extrapolation: Investigated common context extrapolation techniques (e.g. PI, NTK, LongLLaMA , LongLoRA, etc.), training corpus with long data and long-text evaluation methods. Working on constructing Chinese long text training data and doing multi-GPU training to extrapolate Colossal-LLaMA-2.
-  * Participated in the [ColossalQA](https://github.com/hpcaitech/ColossalAI/tree/main/applications/ColossalQA) project, a retrieval-based QA framework based on Langchain.
-  * Involved in the writing of the book 'Practical Large AI Models', edited by Professor Yang You.
+### [OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models](https://github.com/XueFuzhao/OpenMoE)
+- Worked on the PyTorch implementation of **the first open-source, decoder-only MoE language model, OpenMoE**, providing insights about the routing mechanism to the open-source community ([model checkpoint](https://huggingface.co/OrionZheng/openmoe-8b-chat)).
+- Prepared the training dataset, tokenizer and conducted the **model evaluation**.
 
-Publications
-======
-  * OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models [[Code]](https://github.com/XueFuzhao/OpenMoE) [[Paper]](https://arxiv.org/abs/2402.01739) [[Twitter]](https://x.com/XueFz/status/1693696988611739947?s=20) \
-    Fuzhao Xue, **Zian Zheng**, Yao Fu, Jinjie Ni, Zangwei Zheng, Wangchunshu Zhou and Yang You
+---
+
+### [Matrix: Infinite-Horizon World Generation with Real-Time Interaction](https://github.com/Orion-Zheng/matrix)
+- Built a **data collection pipeline** for Cyberpunk 2077, recording per-frame video data and corresponding control signals to support model training.
+- Served as a **core contributor to a multi-GPU inference framework**, implementing Ray-based workers (DiT, VAE, post-processing) and building an interactive frontend/backend system. Delivered the **first real-time game generation demo with user-controllable** inference ([demo](https://drive.google.com/file/d/1GW6eCH-u9jLWs_Br-JJHIBbHXwWN5wuc/view?usp=sharing)).
+
+---
+
+### [AdaVocab: Boosting SLM Inference with Sparse Vocabulary Activation](https://github.com/Orion-Zheng/AdaVocab)
+- Identified the growing **vocabulary size** as a major bottleneck for the Small Language Model (SLM) **inference efficiency**.
+- Proposed and implemented a **sparsely active vocabulary** method; prepared training data, modeled Trainer, and completed evaluation with teammates.
+- Achieved over **20% computation reduction** and **10% inference speedup** for SLMs in **CPU settings**.
+
+---
+
+## Work Experience
+
+### **HPC-AI Tech**, Artificial Intelligence Engineer Intern  
+*Beijing, China | July 2023 – Nov 2023*
+
+- **Extended** LLaMA’s **vocabulary for Chinese** and **contributed** to **data preparation** in the **Colossal-LLaMA-2** project, selected as an official base model in the [2023 NeurIPS LLM Efficiency Challenge](https://llm-efficiency-challenge.github.io/challenge.html).
+- Investigated common **context length extrapolation** methods (e.g., PI, NTK, LongLoRA), and implemented corresponding **training and evaluation** pipelines to extrapolate Colossal-LLaMA-2 with **multi-GPU training**.
+- Working on the [ColossalQA](https://github.com/hpcaitech/ColossalAI/tree/main/applications/ColossalQA) project, a **RAG framework** based on Langchain.
+
+---
+
+## Publications
+
+- **[ICML 2024]** [OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models](https://icml.cc/virtual/2024/poster/35145)  
+  *Fuzhao Xue, **_Zian Zheng_**, Yao Fu, Jinjie Ni, Zangwei Zheng, Wangchunshu Zhou, Yang You*  
+  *Jan 2024*
+
+- **[ICLR 2025]** [MixEval-X: Any-to-Any Evaluations from Real-World Data Mixtures](https://arxiv.org/pdf/2410.13754)  
+  *Jinjie Ni, Yifan Song, Deepanway Ghosal, Bo Li, David Junhao Zhang, Xiang Yue, Fuzhao Xue, **_Zian Zheng_**, Kaichen Zhang, Mahir Shah, Kabir Jain, Yang You, Michael Shieh*  
+  *Oct 2024*
+
+- **[Arxiv]** [The Matrix: Infinite-Horizon World Generation with Real-Time Moving Control](https://icml.cc/virtual/2024/poster/35145)  
+  *Ruili Feng, Han Zhang, Zhantao Yang, Jie Xiao, Zhilei Shu, Zhiheng Liu, **_Andy Zheng_**, Yukun Huang, Yu Liu, Hongyang Zhang*  
+  *Dec 2024*
+
+---
+
+## Teaching & Service
+
+- **Teaching Assistant:** CS135, CS479/679 at UWaterloo  
+- **Reviewers:** ICLR 2025, AISTATS 2025
+
+---
+
+## Honors & Awards
+
+- **China National Scholarship** (Top 0.1% across nation), Dec 2019 & Dec 2021  
+- **Merit Student in Colleges and Universities in Gansu Province** (Top 1% across province), May 2021  
+- **Dr. Derick Wood Graduate Scholarship**, Dec 2024  
