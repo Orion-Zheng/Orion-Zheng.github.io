@@ -58,6 +58,6 @@ Not just research — I like to build tools too! As a heavy LLM/VLM user, I hope
 
 **Miscellaneous**  
 
-- I have the fortune to be Newton's 18th generation of students. The academic family tree is [here](/images/AcademicFamilyTree.png).  
+- Fun academic trivia: I’m Newton’s 18th-gen academic great-great-…-grandstudent. The academic family tree is [here](/images/AcademicFamilyTree.png). Sadly, I don’t think I inherited much of his math genius — sorry, academic ancestors 😅
 - I am an extreme sports lover and adrenaline junkie. You can call me 'Tri-diver Andy' ([skydiver](/images/USPA-A.jpeg), [freediver](/images/AIDA-2star.png), [scuba diver](/images/AOW.jpg)).  
 - I like writing poems (in English/Chinese). For example, [here](/images/poem.png) is one of my poems about life and yet-to-be-discovered love.
