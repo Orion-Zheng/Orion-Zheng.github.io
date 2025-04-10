@@ -35,7 +35,7 @@ The PDF format is available [here](/files/ZhengZian's_CV_20250408.pdf).
 **Research Projects**
 
 **[OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models](https://github.com/XueFuzhao/OpenMoE)**  
-- OpenMoE is the **the first open-source, decoder-only MoE language model, OpenMoE**, providing insights about the routing mechanism to the open-source community ([model checkpoint](https://huggingface.co/OrionZheng/openmoe-8b-chat)).  
+- OpenMoE is the **the first open-source, decoder-only MoE language model**, providing insights about the routing mechanism to the open-source community ([Huggingface](https://huggingface.co/OrionZheng/openmoe-8b-chat)).  
 - Prepared the training dataset, tokenizer and conducted the **model evaluation**. Worked on the **PyTorch implementation** with teammates.
 
 ---
