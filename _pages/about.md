@@ -38,8 +38,8 @@ I’m generally interested in LLMs, VLMs, and AIGC. Here are a few topics I’m 
 A vision I’m passionate about: *Simulate any environment with world models, supervise policy learning with AI feedbacks(e.g. VLMs), and finally generalize to the real world.*
 
 **Roadmap (in My Mind):**  
-- ✅ Built action-controllable world models (e.g. Matrix, Cosmos)  
-- 🔄 Wrapping world model + VLM reward into a Gym-style RL env (in progress)
+- ✅ Built action-controllable world models (e.g. TheMatrix, Cosmos)  
+- ✅ Wrapping world model + VLM reward into a Gym-style RL env (Here is a [Colab Demo](https://colab.research.google.com/drive/1kocBCS8xzClfWQ6aAYhVBA8NPt0czN1m?usp=sharing))
 
 **Challenges I’m working on:**  
 - *Fast world model inference:* Pipelined and parallelized DiT, VAE, and post-processors in TheMatrix project.  
@@ -58,6 +58,6 @@ Not just research — I like to build tools too! As a heavy LLM/VLM user, I hope
 
 **Miscellaneous**  
 
-- Fun academic trivia: I’m Newton’s 18th-gen academic great-great-…-grandstudent. The academic family tree is [here](/images/AcademicFamilyTree.png). Sadly, I don’t think I inherited much of his math genius — sorry, academic ancestors 😅
+- Fun academic trivia: I’m Newton’s 18th-gen academic great-great-…-grandstudent. The academic family tree is [here](/images/AcademicFamilyTree.png). Sadly, I don’t think I inherited ~~much~~ any of his math genius — sorry, academic ancestors 😅
 - I am an extreme sports lover and adrenaline junkie. You can call me 'Tri-diver Andy' ([skydiver](/images/USPA-A.jpeg), [freediver](/images/AIDA-2star.png), [scuba diver](/images/AOW.jpg)).  
-- I like writing poems (in English/Chinese). For example, [here](/images/poem.png) is one of my poems about life and yet-to-be-discovered love.
+- I like writing poems (in English/Chinese). For example, [here](/images/poem.png) is one of my poems about life and love.

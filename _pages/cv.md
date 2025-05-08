@@ -17,12 +17,13 @@ The PDF format is available [here](/files/ZhengZian's_CV_20250408.pdf).
 
 **MMath**, Computer Science - **University of Waterloo**, Ontario, Canada  
 *Sept 2024 – Now*
+- Advised by Professor [Jian Zhao](https://www.jeffjianzhao.com/) (Director of the [WVisdom](https://www.jeffjianzhao.com/) lab)
 
 ---
 
 **MComp**, Artificial Intelligence - **National University of Singapore**, Singapore  
 *Sept 2022 – May 2024*  
-- Advised by Presidential Young Professor [Yang You](https://www.comp.nus.edu.sg/~youy/)
+- Advised by Professor [Yang You](https://www.comp.nus.edu.sg/~youy/) (Director of the [HPC-AI](https://ai.comp.nus.edu.sg) lab)
 
 ---
 
