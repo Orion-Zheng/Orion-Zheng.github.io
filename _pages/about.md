@@ -39,7 +39,7 @@ A vision I’m passionate about: *Simulate any environment with world models, su
 
 **Roadmap (in My Mind):**  
 - ✅ Built action-controllable world models (e.g. TheMatrix, Cosmos)  
-- ✅ Wrapping world model + VLM reward into a Gym-style RL env (Here is a [Colab Demo](https://colab.research.google.com/drive/1kocBCS8xzClfWQ6aAYhVBA8NPt0czN1m?usp=sharing))
+- ✅ Wrapping world model + VLM reward into a Gym-style RL env ([Colab Demo](https://colab.research.google.com/drive/1kocBCS8xzClfWQ6aAYhVBA8NPt0czN1m?usp=sharing))
 
 **Challenges I’m working on:**  
 - *Fast world model inference:* Pipelined and parallelized DiT, VAE, and post-processors in TheMatrix project.  
